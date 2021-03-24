@@ -17,7 +17,27 @@ public class Test1
 		Reporter.log("2nd mthd",true);
 	}
 	@Test
-	public void apiHomeLoan()
+	public void apiHomeLoan1()
+	{
+		Reporter.log("3rd method",true);
+	}
+	@Test
+	public void apiHomeLoan2()
+	{
+		Reporter.log("3rd method",true);
+	}
+	@Test
+	public void apiHomeLoan3()
+	{
+		Reporter.log("3rd method",true);
+	}
+	@Test
+	public void apiHomeLoan4()
+	{
+		Reporter.log("3rd method",true);
+	}
+	@Test
+	public void apiHomeLoan5()
 	{
 		Reporter.log("3rd method",true);
 	}
