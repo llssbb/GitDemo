@@ -29,11 +29,18 @@ public class Test3 {
 		Reporter.log("you",true);
 	}
 	
-	
 	@Test
 	public void helloGood()
 	{
 		Reporter.log("Hello,Good",true);
 	}
+	
+	
+	@Test
+	public void forNewBranch()
+	{
+		Reporter.log("Hello,Good",true);
+	}
+	
 
 }
