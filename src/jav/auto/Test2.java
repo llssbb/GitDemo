@@ -36,4 +36,9 @@ public class Test2
 		Reporter.log("apiPersonalLoan method",true);
 	}
 	
+	@Test(groups= {"smoke"})
+	public void forNewBranch()
+	{
+		Reporter.log("apiPersonalLoan method",true);
+	}
 }
